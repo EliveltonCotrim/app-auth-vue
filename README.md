@@ -1,4 +1,4 @@
-# Voch Tech | Teste front-end Vue
+# Teste front-end Vue
 
 O objetivo deste teste envolve a criação de uma tela de login e um grid de cadastro de usuários
 usando Vue.js para o front-end e PHP com MySQL ou PostgreSQL para o back-end.
